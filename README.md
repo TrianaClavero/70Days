@@ -13,10 +13,10 @@ Organizo mis soluciones en carpetas, una para cada día del reto, con el objetiv
 ```bash
 ├── Day01/
     ├── day_01.py
-│   └── exercise_day_01.md
+│   └── README.md
 ├── Day02/
     ├── day_02.py
-│   └── exercise_day_02.md
+│   └── README.md
 ├── Day03/
 │   └── ...
 ...
